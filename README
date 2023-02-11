@@ -1,0 +1,26 @@
+The bot is able to quote from 14 translated tafaseer (commentaries on the Qurʾān) for use with the `-tafsir` command. I have attempted to add a short description to each one:
+
+**English :**
+1. `maarifulquran` (default) - the tafsir of the Pakistani scholar Muhammad Shafi Deobandi (d. 1976 CE).
+2. `mukhtasar` - I was unable to find details on this (presumably translated) tafsir.
+3. `jalalayn` - the tafsir of the "Two Jalals" - a commentary written by Jalāl ad-Dīn al-Maḥalli and his student Jalāl ad-Dīn as-Suyūtī. It is known for his brevity and concision. This is the default tafsir.
+4. `ibnkathir` - the tafsir of Ibn Kathir (d. 774 AH) entitled al-Qurʾān al-ʿAẓeem, or more simply, Tafsir Ibn Kathir, is a popular commentary on the Qurʾān based on Ibn Taymiyyah's exegetical style of quoting early Muslim authorities (the salaf).
+5. `tustari` - the tafsir of Sahl al-Tustarī (d. 283 AH), a Persian Ṣūfī mystic.
+6. `qushayri` - the tafsir of Abūʾl Qāsim al-Qushayrī (d. 465 AH), entitled Laṭāʾif al-Ishārāt, ('Subtle Allusions').
+7. `kashani` - the tafsir of ʿAbd al-Razzāq al-Kāshānī (d. 730–6 AH).
+8. `wahidi` - Asbab al-Nuzul by 'Alī ibn Ahmad al-Wāhidī (d. 468 AH), which aims to collect and systemize information concerning all the known reasons and contexts for the revelation of particular Qur'anic verses.
+9. `kashf` - Kashf al-asrār wa ʿuddat al-abrār by Rashīd al-Dīn Maybudī, about whom little is known. It is the longest Sunni commentary in the Persian language.
+
+
+**Russian**
+10. `saadi` - the tafsir of ʿAbd ar-Raḥman b. Nasir as-Sa'di (d. 1376 AH), translated into Russian.
+
+
+**Urdu**
+11. `ibnkathir.ur` - Urdu translation of Ibn Kathir's tafsir.
+12. `israr` - the tafsir of Dr Israr Ahmad (d. 2010 CE) entitled Bayan-ul-Quran.
+
+
+**Bengali**
+13. `ibnkathir.bn` - Bengali translation of Ibn Kathir's tafsir.
+14. `ahsanul`- a Bengali-language tafsir authored by a certain Salahuddin Yusuf.
