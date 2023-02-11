@@ -1,6 +1,6 @@
 The bot is able to quote from 14 translated tafaseer (commentaries on the Qurʾān) for use with the `-tafsir` command. I have attempted to add a short description to each one:
 
-**English :**
+#English :
 1. `maarifulquran` (default) - the tafsir of the Pakistani scholar Muhammad Shafi Deobandi (d. 1976 CE).
 2. `mukhtasar` - I was unable to find details on this (presumably translated) tafsir.
 3. `jalalayn` - the tafsir of the "Two Jalals" - a commentary written by Jalāl ad-Dīn al-Maḥalli and his student Jalāl ad-Dīn as-Suyūtī. It is known for his brevity and concision. This is the default tafsir.
@@ -12,15 +12,15 @@ The bot is able to quote from 14 translated tafaseer (commentaries on the Qurʾ�
 9. `kashf` - Kashf al-asrār wa ʿuddat al-abrār by Rashīd al-Dīn Maybudī, about whom little is known. It is the longest Sunni commentary in the Persian language.
 
 
-**Russian**
+#Russian
 10. `saadi` - the tafsir of ʿAbd ar-Raḥman b. Nasir as-Sa'di (d. 1376 AH), translated into Russian.
 
 
-**Urdu**
+#Urdu
 11. `ibnkathir.ur` - Urdu translation of Ibn Kathir's tafsir.
 12. `israr` - the tafsir of Dr Israr Ahmad (d. 2010 CE) entitled Bayan-ul-Quran.
 
 
-**Bengali**
+#Bengali
 13. `ibnkathir.bn` - Bengali translation of Ibn Kathir's tafsir.
 14. `ahsanul`- a Bengali-language tafsir authored by a certain Salahuddin Yusuf.
